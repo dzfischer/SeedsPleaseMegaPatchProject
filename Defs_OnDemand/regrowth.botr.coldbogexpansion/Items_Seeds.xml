@@ -1,0 +1,26 @@
+<Defs>
+
+	<SeedsPlease.SeedDef ParentName="SeedBase">
+	  <defName>Seed_RG-B_Volopus</defName>
+	  <label>Volopus spores</label>
+	  <sources>
+		<li>RG-B_Plant_Volopus</li>
+	  </sources>
+	  <graphicData>
+        <texPath>Regrowth - BOTR/ColdBogExpansion/VolopusSeed</texPath>
+	    <graphicClass>Graphic_Single</graphicClass>
+      </graphicData>
+	</SeedsPlease.SeedDef>
+	
+	<SeedsPlease.SeedDef ParentName="SeedBase">
+	  <defName>Seed_RG-CB_BogPine</defName>
+	  <label>Bogpine seeds</label>
+	  <sources>
+		<li>RG-CB_Plant_BogTreePine</li>
+	  </sources>
+	  <graphicData>
+        <texPath>Regrowth - BOTR/ColdBogExpansion/BogpineSeed</texPath>
+	    <graphicClass>Graphic_Single</graphicClass>
+      </graphicData>
+	</SeedsPlease.SeedDef>
+</Defs>

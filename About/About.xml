@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SeedsPlease: Megapatch Project</name>
+	<author>Shadow</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>shadow.spaiomegapatch</packageId>
+	<modDependencies>
+		<li>
+			<packageId>notfood.seedsplease</packageId>
+			<displayName>SeedsPlease</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=935732834</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>notfood.seedsplease</li>
+	</loadAfter>
+	<description>
+--> SHADOW IS THE ORIGINAL AUTHOR: [url=https://steamcommunity.com/workshop/filedetails/?id=2139417581]SEE HERE[/url]
+
+This is an upload of their original megapatch, with fixes to some incompatibilities found in the Vanilla Expanded set of mods (bugfixes for Medieval, Brewing Coffee/Tea). I will not be actively updating this myself, BUT the plan is to have this available on GitHub so that it can be much more easily updated in the future, and so that players don't have to subscribe to different mods.
+
+If you wish to contribute, submit a PR here.
+
+
+	</description>
+</ModMetaData>
