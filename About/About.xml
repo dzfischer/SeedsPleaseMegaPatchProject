@@ -2,6 +2,7 @@
 <ModMetaData>
 	<name>SeedsPlease: Megapatch Project</name>
 	<author>Blazenclaw</author>
+	<url>https://github.com/dzfischer/SeedsPleaseMegaPatchProject</url>
 	<supportedVersions>
 		<li>1.1</li>
 		<li>1.2</li>
@@ -17,10 +18,40 @@
 	<loadAfter>
 		<li>notfood.seedsplease</li>
 	</loadAfter>
-	<description>--> SHADOW IS THE ORIGINAL AUTHOR OF THIS MEGAPATCH: [url=https://steamcommunity.com/workshop/filedetails/?id=2139417581]SEE HERE[/url]
+	<description>--> SHADOW IS THE ORIGINAL AUTHOR OF THIS MEGAPATCH: [url=https://steamcommunity.com/workshop/filedetails/?id=2139417581]SEE HERE FOR ORIGINAL AND MORE DETAIL[/url]
 
-This is a reupload of their original megapatch with permission, including fixes to some incompatibilities found in the Vanilla Expanded set of mods (bugfixes for Medieval, Brewing Coffee/Tea). More importantly, this is now on GitHub, so *when* there are minor changes necessary in the future, a PR can be submitted and this megapatch updated far more easily by interested parties.
+[b]Currently contains patches for:[/b]
+Alpha Biomes
+Forsakens
+Growable Neutroamine
+[FSF] Growable Ambrosia
+[FSF] Growable Mushrooms
+Materials+
+Pawnmorpher
+Vanilla Factions Expanded - Settlers
+Vanilla Factions Expanded - Medieval
+Vanilla Factions Expanded - Insectoids
+Vanilla Cooking Expanded
+Vanilla Cooking Expanded - Sushi
+Vanilla Brewing Expanded
+Vanilla Brewing Expanded - Coffees and Teas
+Vanilla Plants Expanded
+More Hydroponic Crops (Continued)
+Cultured Meat
+Medical IV's
+Lanius race
+Remote Tech
+ReGrowth: Boreal Forest Expansion
+ReGrowth: Tundra Expansion
+ReGrowth: Desert Expansion
+ReGrowth: Temperate Forest Expansion
+ReGrowth: Cold Bog Expansion
+ReGrowth: Wastelands
+Realistic Planets - Fan Update
+Combat Extended
+Survivalist Additions
 
-If you wish to contribute, please(!) submit a PR here: [url=https://github.com/dzfischer/SeedsPleaseMegaPatchProject]SeedsPleaseMegaPatchProject Repository[/url].
+[b]Note[/b]: This is now on GitHub, so if you wish to help contribute, please(!) submit a PR here:
+[url=https://github.com/dzfischer/SeedsPleaseMegaPatchProject]SeedsPleaseMegaPatchProject Repository[/url].
 	</description>
 </ModMetaData>

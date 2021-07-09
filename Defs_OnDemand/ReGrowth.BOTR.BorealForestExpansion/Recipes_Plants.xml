@@ -1,7 +1,7 @@
 <Defs>
 
   <RecipeDef ParentName="ExtractSeed">
-    <defName>ExtractSeed_RG-BPotokus</defName>
+    <defName>ExtractSeed_RG-BF_Potokus</defName>
     <label>Extract potokus spores</label>
     <description>Extract spores from raw fungus.</description>
     <ingredients>
@@ -20,7 +20,7 @@
       </thingDefs>
     </fixedIngredientFilter>
     <products>
-      <Seed_RG-BPotokus>3</Seed_RG-BPotokus>
+      <Seed_RG-BF_Potokus>3</Seed_RG-BF_Potokus>
     </products>
   </RecipeDef>
   

@@ -7,7 +7,7 @@
       <li>RG-TF_Plant_Cibarius</li>
     </sources>
     <graphicData>
-      <texPath>Regrowth - BOTR/TemperateExpansion/CibariusSeeds</texPath>
+      <texPath>Regrowth - BOTR/TemperateForestExpansion/CibariusSeeds</texPath>
 	  <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </SeedsPlease.SeedDef>
@@ -19,7 +19,7 @@
       <li>RG-TF_Plant_TreeCornish</li>
     </sources>
     <graphicData>
-      <texPath>Regrowth - BOTR/TemperateExpansion/CornishSeeds</texPath>
+      <texPath>Regrowth - BOTR/TemperateForestExpansion/CornishSeeds</texPath>
 	  <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </SeedsPlease.SeedDef>

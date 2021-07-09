@@ -4,7 +4,7 @@
     <defName>Seed_LaniusAloenius</defName>
     <label>Aloenius seeds</label>
     <sources>
-      <li>Plant_LaniusCactus</li>
+        <li>Plant_LaniusCactus</li>
     </sources>
     <graphicData>
       <texPath>LaniusRace/AloeniusSeed</texPath>
